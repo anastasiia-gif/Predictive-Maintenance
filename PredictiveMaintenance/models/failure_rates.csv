@@ -1,0 +1,4 @@
+model,files,cycles,failures,maintenance,failure_rate_%
+Model_00AFC,12,396,145,251,36.6
+Model_06BQ,25,825,94,731,11.4
+Model_37LB,17,561,466,95,83.1

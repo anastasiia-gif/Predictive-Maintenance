@@ -1,0 +1,35 @@
+[
+  {
+    "model": "Model_00AFC",
+    "cycles_evaluated": 99,
+    "missed_warnings": 0,
+    "warned_in_time_pct": 100.0,
+    "lead_mean": 255.5,
+    "lead_median": 250.0,
+    "lead_p05": 174.9,
+    "lead_min": 151.0,
+    "warned_before_failure_pct": 100.0
+  },
+  {
+    "model": "Model_06BQ",
+    "cycles_evaluated": 198,
+    "missed_warnings": 0,
+    "warned_in_time_pct": 100.0,
+    "lead_mean": 255.2,
+    "lead_median": 258.0,
+    "lead_p05": 161.7,
+    "lead_min": 126.0,
+    "warned_before_failure_pct": 100.0
+  },
+  {
+    "model": "Model_37LB",
+    "cycles_evaluated": 132,
+    "missed_warnings": 0,
+    "warned_in_time_pct": 100.0,
+    "lead_mean": 274.6,
+    "lead_median": 275.0,
+    "lead_p05": 115.1,
+    "lead_min": 20.0,
+    "warned_before_failure_pct": 100.0
+  }
+]

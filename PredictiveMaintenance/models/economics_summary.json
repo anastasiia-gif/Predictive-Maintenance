@@ -1,0 +1,38 @@
+[
+  {
+    "model": "Model_00AFC",
+    "baseline_failure_rate": 0.366,
+    "test_failure_cycles": 32,
+    "catch_rate": 1.0,
+    "mean_warning_lead": 265.0,
+    "residual_failure_rate": 0.0,
+    "cost_without_\u20ac": 5782.0,
+    "cost_with_\u20ac": 4580.0,
+    "saving_per_cycle_\u20ac": 1202.0,
+    "saving_per_1000_motors_\u20ac": 1201925.0
+  },
+  {
+    "model": "Model_06BQ",
+    "baseline_failure_rate": 0.114,
+    "test_failure_cycles": 22,
+    "catch_rate": 1.0,
+    "mean_warning_lead": 243.0,
+    "residual_failure_rate": 0.0,
+    "cost_without_\u20ac": 4899.0,
+    "cost_with_\u20ac": 4573.0,
+    "saving_per_cycle_\u20ac": 326.0,
+    "saving_per_1000_motors_\u20ac": 325861.0
+  },
+  {
+    "model": "Model_37LB",
+    "baseline_failure_rate": 0.831,
+    "test_failure_cycles": 118,
+    "catch_rate": 1.0,
+    "mean_warning_lead": 274.0,
+    "residual_failure_rate": 0.0,
+    "cost_without_\u20ac": 7407.0,
+    "cost_with_\u20ac": 4582.0,
+    "saving_per_cycle_\u20ac": 2825.0,
+    "saving_per_1000_motors_\u20ac": 2825024.0
+  }
+]

@@ -1,0 +1,4 @@
+model,n_machines,n_train_rows,RUL_MAE,RUL_RMSE,RUL_MAE_last1000,n_cycles,missed_warnings,warning_lead_mean,warning_lead_p05,warning_lead_p95,warned_before_end_pct,seconds
+Model_00AFC,12,297013,60.2,87.4,37.5,99,66,253.15151515151516,185.2,314.0,100.0,36.4
+Model_06BQ,25,627037,61.1,86.1,37.6,198,165,266.57575757575756,178.6,318.6,100.0,82.1
+Model_37LB,17,428975,87.1,120.7,72.3,132,99,283.72727272727275,133.4,445.4,100.0,52.9

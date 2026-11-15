@@ -1,0 +1,47 @@
+[
+  {
+    "model": "Model_00AFC",
+    "n_machines": 12,
+    "n_train_rows": 297013,
+    "RUL_MAE": 60.2,
+    "RUL_RMSE": 87.4,
+    "RUL_MAE_last1000": 37.5,
+    "n_cycles": 99,
+    "missed_warnings": 66,
+    "warning_lead_mean": 253.15151515151516,
+    "warning_lead_p05": 185.2,
+    "warning_lead_p95": 314.0,
+    "warned_before_end_pct": 100.0,
+    "seconds": 36.4
+  },
+  {
+    "model": "Model_06BQ",
+    "n_machines": 25,
+    "n_train_rows": 627037,
+    "RUL_MAE": 61.1,
+    "RUL_RMSE": 86.1,
+    "RUL_MAE_last1000": 37.6,
+    "n_cycles": 198,
+    "missed_warnings": 165,
+    "warning_lead_mean": 266.57575757575756,
+    "warning_lead_p05": 178.6,
+    "warning_lead_p95": 318.6,
+    "warned_before_end_pct": 100.0,
+    "seconds": 82.1
+  },
+  {
+    "model": "Model_37LB",
+    "n_machines": 17,
+    "n_train_rows": 428975,
+    "RUL_MAE": 87.1,
+    "RUL_RMSE": 120.7,
+    "RUL_MAE_last1000": 72.3,
+    "n_cycles": 132,
+    "missed_warnings": 99,
+    "warning_lead_mean": 283.72727272727275,
+    "warning_lead_p05": 133.4,
+    "warning_lead_p95": 445.4,
+    "warned_before_end_pct": 100.0,
+    "seconds": 52.9
+  }
+]

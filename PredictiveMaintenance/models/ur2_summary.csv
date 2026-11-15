@@ -1,0 +1,4 @@
+model,cycles_evaluated,missed_warnings,warned_in_time_pct,lead_mean,lead_median,lead_p05,lead_min,warned_before_failure_pct
+Model_00AFC,99,0,100.0,255.5,250.0,174.9,151.0,100.0
+Model_06BQ,198,0,100.0,255.2,258.0,161.7,126.0,100.0
+Model_37LB,132,0,100.0,274.6,275.0,115.1,20.0,100.0
